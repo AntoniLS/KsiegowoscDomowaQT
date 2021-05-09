@@ -10,3 +10,5 @@ Framework QT, SQLite.
 <img src="./Images/profiles.png">
 
 <img src="./Images/bills.png">
+
+<img src="./Images/charts.png">
